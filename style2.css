@@ -48,7 +48,7 @@ p{
 .navbar{
   padding-top: 10px;
   height: 70px;
-  font-family: 'Cardo', serif !important;
+  font-family: 'Noto Sans', sans-serif !important;
 }
 .navbar-nav>li, .navbar-nav {
   float: left !important;
@@ -299,7 +299,8 @@ body {
 .header {
     position: relative;
     text-align: center;
-    background: linear-gradient(60deg, rgba(84, 58, 183, 1) 0%, rgba(0, 172, 193, 1) 100%);
+    background-color: #537895;
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
     color: white;
 }
 
