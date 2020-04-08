@@ -166,7 +166,7 @@ section
   box-shadow: 5px 5px 20px #008080, 1px 1px 10px #008080;
 /*  background-color: white !important;*/
   border-radius: 5%;
-  
+
 
 }
 
@@ -181,6 +181,10 @@ section
 hr.style8 {
   border-top: 1px solid #008080;
   border-bottom: 2px solid #008080;
+}
+
+.projectdesc{
+  font-size: 20px;
 }
 
 
@@ -207,6 +211,10 @@ hr.style8 {
 } 
 img {
   display: inline-block !important;
+}
+
+  .projectdesc{
+  font-size: 15px;
 }
 
 }
