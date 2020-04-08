@@ -1,9 +1,12 @@
 html{
-     font-family: 'Open Sans', sans-serif !important;
+     
       scroll-behavior:smooth;
       font-color: white !important;
 }
 
+.bodycontent{
+  font-family: 'Dosis', sans-serif;
+}
 body {
   
   
@@ -130,6 +133,8 @@ li.active a {
   font-size: 43px;
   text-decoration: underline;
   color: white;
+  font-family: 'Cardo', serif !important;
+
 }
 
 
