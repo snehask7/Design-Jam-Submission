@@ -1,5 +1,4 @@
 html{
-     
       scroll-behavior:smooth;
       font-color: white !important;
 }
@@ -15,8 +14,8 @@ body {
   overflow-x: hidden;
   text-align: center;
   overflow-y: scroll;
-background-color: black! important;
-background-image: url("./img/black-twill.png");
+  background-color: black! important;
+  background-image: url("./img/black-twill.png");
 
 }
 
@@ -31,7 +30,7 @@ p{
 
 /*heading for homepage*/
 .homehead{
-  font-family: 'Inria Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 60px;
 }
 
@@ -49,6 +48,7 @@ p{
 .navbar{
   padding-top: 10px;
   height: 70px;
+  font-family: 'Cardo', serif !important;
 }
 .navbar-nav>li, .navbar-nav {
   float: left !important;
@@ -223,9 +223,6 @@ img {
 }
 
 }
-  
-
-  
 
 img{page-break-inside:avoid}
 img{max-width:100%!important}
@@ -298,9 +295,6 @@ body {
   background-color:#ea4c89
 }
 
-
-
-
 /*For wave Animation*/
 .header {
     position: relative;
@@ -337,6 +331,7 @@ body {
     text-align: center;
     background-color: white;
 }
+
 /* Animation */
 .parallax>use {
     animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;
@@ -365,10 +360,6 @@ body {
         transform: translate3d(85px, 0, 0);
     }
 }
-
-
-
-
 
 .flex-container {
   display: flex;
@@ -477,7 +468,7 @@ body {
         font-size: 24px;
     }
     .homehead{
-      font-family: 'comic-sans';
+      font-family: 'Open Sans', sans-serif;
         font-size: 24px;
     }
      #cssanimation{
