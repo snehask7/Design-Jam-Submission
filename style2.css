@@ -1,16 +1,20 @@
 html{
      font-family: 'Open Sans', sans-serif !important;
       scroll-behavior:smooth;
+      font-color: white !important;
 }
 
 body {
-  color: #fff;
+  
   
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
   text-align: center;
   overflow-y: scroll;
+background-color: black! important;
+background-image: url("./img/black-twill.png");
+
 }
 
 p{
@@ -29,6 +33,7 @@ p{
 }
 
 
+
 /*Navigation*/
 .navbar-collapse.collapse {
   display:block;!important;
@@ -36,6 +41,7 @@ p{
 
 .navspacer{
   height: 0px;
+  background-color: white!important;
 }
 .navbar{
   padding-top: 10px;
@@ -123,6 +129,7 @@ li.active a { color: #F012BE !important;
 .sechead{
   font-size: 43px;
   text-decoration: underline;
+  color: white;
 }
 
 
