@@ -3,11 +3,6 @@ A responsive portfolio site made by me for the Design jam contest conducted by S
 
 Files Description
 ---------------------------
+Main CSS and HTML files: index.html, style2.css
 
-index.html - Main html file
-styles2.css - Main css file
-
-
-Files for heroku deployment
-composer.json
-index.php
+Files for heroku deployment: composer.json,index.php
