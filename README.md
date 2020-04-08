@@ -5,4 +5,6 @@ Files Description
 ---------------------------
 Main CSS and HTML files: index.html, style2.css
 
+Glide.js files: core.css, theme.css
+
 Files for heroku deployment: composer.json,index.php
