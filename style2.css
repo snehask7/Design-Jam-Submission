@@ -468,6 +468,10 @@ body {
   opacity: 1;
 }
 
+  .glideimg{
+      height: 300px;
+      width: 1600px !important;
+  }
 
 /*Shrinking for mobile*/
 @media (max-width: 700px) {
@@ -508,9 +512,9 @@ body {
   .navspacer{
     height: 50px;
   }
-  .glide__slide img{
-      height: 250px;
-      width: 1400px;
+  .glideimg{
+      height: 200px;
+      width: 800px !important;
   }
         
 }
