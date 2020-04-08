@@ -1,0 +1,26 @@
+.glow:hover{
+  font-size: 35px;
+  text-align: center;
+ text-shadow:1px 1px 10px #fff, 1px 1px 10px ;
+}
+
+nav{
+  font-size: 30px;
+
+}
+
+
+
+.nav-item{
+  padding-left: 20px
+}
+
+@media only screen and (min-width: 400px) {
+  /* For tablets: */
+ nav{
+    font-size: 10px;
+  }
+.nav-item{
+    padding-left: 1px
+}
+}
