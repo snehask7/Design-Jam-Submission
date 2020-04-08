@@ -137,29 +137,9 @@ li.active a { color: #F012BE !important;
 .site-footer
 {
   background-color:#26272b;
-  padding:45px 0 20px;
-  font-size:15px;
-  line-height:24px;
   color:#737373;
+  width:100%;
 }
-.site-footer hr
-{
-  border-top-color:#bbb;
-  opacity:0.5
-}
-.site-footer hr.small
-{
-  margin:20px 0
-}
-.site-footer h6
-{
-  color:#fff;
-  font-size:16px;
-  text-transform:uppercase;
-  margin-top:5px;
-  letter-spacing:2px
-}
-
 
 .site-footer .social-icons
 {
@@ -169,30 +149,11 @@ li.active a { color: #F012BE !important;
 {
   width:40px;
   height:40px;
-  line-height:40px;
-  margin-left:6px;
-  margin-right:0;
+
   border-radius:100%;
   background-color:#33353d
 }
-@media (max-width:991px)
-{
-  .site-footer [class^=col-]
-  {
-    margin-bottom:30px
-  }
-}
-@media (max-width:767px)
-{
-  .site-footer
-  {
-    padding-bottom:0
-  }
-  .site-footer .copyright-text,.site-footer .social-icons
-  {
-    text-align:center
-  }
-}
+
 .social-icons
 {
   padding-left:0;
@@ -202,15 +163,6 @@ li.active a { color: #F012BE !important;
 .social-icons li
 {
   display:inline-block;
-  margin-bottom:4px
-}
-.social-icons li.title
-{
-  margin-right:15px;
-  text-transform:uppercase;
-  color:#96a2b2;
-  font-weight:700;
-  font-size:13px
 }
 .social-icons a{
   background-color:#eceeef;
@@ -255,15 +207,7 @@ li.active a { color: #F012BE !important;
 {
   background-color:#ea4c89
 }
-@media (max-width:767px)
-{
-  .social-icons li.title
-  {
-    display:block;
-    margin-right:0;
-    font-weight:600
-  }
-}
+
 
 /*CSS GRID*/
 .column {
