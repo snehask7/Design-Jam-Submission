@@ -95,7 +95,7 @@ li.active a {
 
 /*about section gradient animation*/
 .about-bg {
-  background: linear-gradient(-45deg, #00BFB2, #29539B, #04619F, #23d5ab);
+  background: linear-gradient(-45deg,#36096D, #29539B, #04619F, #23d5ab);
   background-size: 400% 400%;
   animation: gradient 5s ease infinite;
 }
