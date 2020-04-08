@@ -132,7 +132,9 @@ li.active a { color: #F012BE !important;
   color: white;
 }
 
-
+iframe {
+  overflow: hidden;
+}
 
 /*CSS GRID*/
 .column {
