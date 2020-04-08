@@ -508,7 +508,11 @@ body {
   .navspacer{
     height: 50px;
   }
-
+  .glide__slide img{
+      height: 250px;
+      width: 1400px;
+  }
+        
 }
 
 
