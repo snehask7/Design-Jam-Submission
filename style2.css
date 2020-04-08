@@ -30,7 +30,7 @@ p{
 
 /*heading for homepage*/
 .homehead{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif !important;
   font-size: 60px;
 }
 
