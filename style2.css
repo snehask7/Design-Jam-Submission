@@ -153,6 +153,36 @@ li.active a { color: #F012BE !important;
 section
 {display:block}
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 20px;
+  align-items: stretch;
+}
+
+.grid > article {
+  color: white;
+  border: 3px solid #008080;
+  box-shadow: 5px 5px 20px #008080, 1px 1px 10px #008080;
+/*  background-color: white !important;*/
+  border-radius: 5%;
+  
+
+}
+
+.grid > article img {
+  max-width: 100%;
+}
+
+.grid .text {
+  padding: 20px;
+}
+
+hr.style8 {
+  border-top: 1px solid #008080;
+  border-bottom: 2px solid #008080;
+}
+
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 770px) {
