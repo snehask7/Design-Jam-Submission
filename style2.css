@@ -77,7 +77,7 @@ p {
     text-shadow: 5px 5px 20px #fff, 1px 1px 10px #ccc;
     text-decoration: none;
     color: white;
-    font-size: 32px;
+    font-size: 25px;
 }
 
 
@@ -541,13 +541,13 @@ body {
         min-height: 40px;
     }
     .navbar {
-        font-size: 7px;
+        font-size: 9px;
     }
     .glow:hover {
         text-align: center;
         text-decoration: none;
         color: white;
-        font-size: 10px;
+        font-size: 9px;
     }
     .inner-header {
         height: 65vh;
@@ -594,7 +594,17 @@ body {
     }
     .navbar{
       font-size: 6px; 
+      padding-top: 1px;
+      padding-right: 1px;
     }
+    .glow:hover {
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        font-size: 7px;
+    }
+
+
 }
 
 .testimonial {
